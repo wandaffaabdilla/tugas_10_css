@@ -1,0 +1,19 @@
+.container {
+  background-image: linear-gradient(to top right, red, white);
+  height: 750px;
+}
+
+.satu {
+  background-image: radial-gradient(at bottom, white, blue);
+  width: 650px;
+  height: 400px;
+  margin: 0 auto;
+  
+}
+
+.dua {
+  background-image: linear-gradient(to right, white, blue, white);
+  width: 650px;
+  height: 150px;
+  margin: 0 auto;
+}
